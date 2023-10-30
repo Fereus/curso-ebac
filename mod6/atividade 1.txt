@@ -1,0 +1,5 @@
+Na programação procedural, você organiza o seu código como uma lista de passos a serem seguidos, assim como uma receita de cozinha.
+Cada passo é como uma função que executa uma tarefa específica, a ideia é montar o programa em pequenas partes para torná-lo mais fácil de entender e manter. 
+
+Na programação orientada a objetos, você organiza seu código pensando em objetos e geralmente separando em classes, cada objeto tem suas próprias características que são
+atribuidas como variaveis ou funções para poder representar seus valores ou ações.

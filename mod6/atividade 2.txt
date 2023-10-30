@@ -1,0 +1,19 @@
+1 - Alarme Ligado? Sim:
+   1 Desligar o alarme.
+   2 despertar
+   3 ver se tem notificação importante no celular
+   4 levantar
+   
+2 - Não:
+   1 despertar
+   2 ver se tem notificação importante no celular
+   3 levantar   
+
+3 - Higiene pessoal:
+   1 Ir ao banheiro para higiene pessoal (escovar os dentes, tomar banho, etc.)
+   2 Vestir roupa de acordo com a rotina do dia
+   
+4 - Café da manhã:
+   1 Prepara e toma o café da manhã.
+   2 Planeja as atividades do dia.
+   3 Prepara materiais ou itens necessários para o dia (trabalho, estudo, etc.).
